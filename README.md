@@ -53,3 +53,7 @@ National Institute of Technology, Jalandhar
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+## 📊 GitHub 3D Contributions
+
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
