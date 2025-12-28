@@ -54,12 +54,3 @@ National Institute of Technology, Jalandhar
   </a>
 </p>
 <hr/>
-
-## 📊 GitHub 3D Contributions
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/deepakadvik/deepakadvik/main/profile-3d-contrib/profile-night-rainbow.svg" 
-    alt="GitHub 3D Contribution Graph"
-  />
-</p>
